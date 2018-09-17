@@ -3,7 +3,7 @@
 #
 # define system build folder
 #
-MODEL = $1
+MODEL=$1
 #PHP KR Project Start
 tpv_build_folder[1]=PHP_KR_91H_50PUN6102_MSD91H_REVA_PANEL1
 tpv_panel_type[1]=UHD-60Hz
