@@ -42,7 +42,6 @@ echo -e "\tNote: q or Q to Abort"
 echo -e "***********************************************************************"
 read -p  "Enter your choice =>" MODEL
 MODEL=$1
-MODEL
 if [ "$MODEL" == "" ]; then
     MODEL=0
 elif [ "$MODEL" == "q" ] || [ "$MODEL" == "Q" ]; then
