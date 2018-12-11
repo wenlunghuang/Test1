@@ -1,7 +1,7 @@
 #!/bin/bash
 # Selection for build different models
 #
-# define system build folder
+#wekwjekjlrwe define system build folder
 #
 
 #PHP KR Project Start
